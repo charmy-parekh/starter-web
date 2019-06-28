@@ -22,3 +22,6 @@ This is how to contribute section
 
 
 The demo project for commit and diff.
+
+
+2019 Git Training Copyright
