@@ -4,10 +4,12 @@
 # TEAM
 
 	Charmy     charmy.parekh@gmail.com	charmy.parekh
+	vrunda		vrunda.patel@gmail.com	vrunda.patel
 
 # THANKS
 
-    <name>
+    Regards,
+	=
 
 # TECHNOLOGY COLOPHON
 
