@@ -23,6 +23,7 @@ Please fork this repository and then issue Pull Requests for review.
 
 
 The demo project for commit and diff.
+Adding text for rebasing example
 
 
 2019 Git Training Copyright
