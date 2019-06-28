@@ -17,3 +17,8 @@ This is the deployment section.
  
 
 ## How to Contribute
+
+This is how to contribute section
+
+
+The demo project for commit and diff.
