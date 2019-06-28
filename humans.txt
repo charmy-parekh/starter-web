@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Charmy     charmy.parekh@gmail.com	charmy.parekh
 
 # THANKS
 
