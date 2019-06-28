@@ -19,6 +19,7 @@ This is the deployment section.
 ## How to Contribute
 
 This is how to contribute section
+Please fork this repository and then issue Pull Requests for review.
 
 
 The demo project for commit and diff.
